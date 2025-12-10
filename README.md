@@ -48,8 +48,7 @@ create episodes for RL training.
 ### Loan-level episode generation
 ```bash
 python3 run_test.py
-
-
+```
 run the following code if you want to construct an episode at loan level
 ```
 python3 run_test.py
@@ -70,9 +69,8 @@ run the following code if you want to test the TL framework
 python3 run_test_TL.py
 ```
 
-
 ## My Contribution
-- Prepared documentation & research alignment for CredResolve use case
+- Prepared documentation
 - Structured README & explanation for professional portfolio submission
 - Added business relevance & deployment vision
 - Organized files for reproducibility and report presentation
